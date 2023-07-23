@@ -113,7 +113,7 @@ function updateDescription(id) {
 console.log(manager.tasks);
 //Copyrights
 function copyrights() {
-    var developer = "Oved Harari";
+    var developer = "Dan ATTALI";
     var date = new Date();
     var currentYear = date.getFullYear();
     console.log(currentYear);

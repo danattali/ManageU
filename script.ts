@@ -137,7 +137,7 @@ console.log(manager.tasks);
 
 //Copyrights
 function copyrights() {
-  const developer = "Oved Harari";
+  const developer = "Dan ATTALI";
   const date = new Date();
   const currentYear = date.getFullYear();
   console.log(currentYear);
